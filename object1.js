@@ -107,4 +107,4 @@
 //     return country.name + " has a population of " + country.population + "  and is situated in " + country.continent
 
 // }
-// console.log(cityFacts({ name: "Paris", population: "2,140,526", continent: "Europe" }));
+// console.log(cityFacts({ name: "Tajikistan", population: "10,510,286", continent: "Centrial-Asia" }));
